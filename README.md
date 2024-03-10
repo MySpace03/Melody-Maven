@@ -1,4 +1,4 @@
-# Melody Maven
+# Melody Maven(Spotify music genre classification using machine learning)
 
 Welcome to Melody Maven, your go-to repository for all things related to music and melody!
 
